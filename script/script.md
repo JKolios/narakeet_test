@@ -27,4 +27,4 @@ _Συμβουλή Ιουνίου_
 
 ![pan left](lion2.png)
 
-![pan up](lion2.png)
+![pan top](lion2.png)
